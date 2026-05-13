@@ -1,0 +1,12 @@
+Programs/
+IdeSrc/
+AppSrc/config/
+*.x64.prn
+*.x64.dep
+*.exe.manifest
+Data/*.log
+Data/*.cch
+Data/*.x64.cch
+.vs/
+.DS_Store
+Thumbs.db
