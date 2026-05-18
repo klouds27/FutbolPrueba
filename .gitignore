@@ -3,6 +3,9 @@ IdeSrc/
 AppSrc/config/
 *.x64.prn
 *.x64.dep
+*.prn
+*.dep
+*.dbg
 *.exe.manifest
 Data/*.log
 Data/*.cch
